@@ -42,6 +42,16 @@ on clarity, reproducibility, and practical learning.
 
 ---
 
+## Academic & Research Writing
+
+### Influence of Study Habits on the Academic Performance of Physics Students
+**Context:** Undergraduate research project (peer-reviewed journal publication)  
+**Focus:** Research design, data analysis, and scholarly writing  
+**Contribution:** Conducted original research, analyzed findings, and authored the final paper  
+🔗 https://www.researchgate.net/publication/362608864_INFLUENCE_OF_STUDY_HABITS_ON_THE_ACADEMIC_PERFORMANCE_OF_PHYSICS_STUDENTS_IN_FEDERAL_UNIVERSITY_OF_AGRICULTURE_MAKURDI_NIGERIA
+
+---
+
 ## Writing Focus
 
 - Web3 & smart contract education
